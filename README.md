@@ -1,2 +1,2 @@
 # electron-js
-Electron JS tests
+Electron JS example application
