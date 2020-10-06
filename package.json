@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/veugenio/electron-js#readme",
   "devDependencies": {
-    "electron": "^8.0.2",
+    "electron": "^8.5.2",
     "electron-installer-snap": "^5.0.0",
     "electron-packager": "^14.2.1"
   }
